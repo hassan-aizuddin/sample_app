@@ -39,5 +39,7 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
-/config/credentials.yml.enc 
+/config/database.yml
+/config/credentials.yml.enc  
 /test/application_system_test_case.rb
+/test
